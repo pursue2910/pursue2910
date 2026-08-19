@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Pursue! 🐼
+# 👋 Hey, I'm Pursue Panda!
 
 ### `B.Tech CSE Student` • `DSA with C++` • `Python` • `Web Development` • `LLM Explorer`
 
@@ -34,7 +34,7 @@
 
 **My last name really is Panda.**
 
-*No, I didn't choose it just because of Kung Fu Panda.* 😭
+
 
 </td>
 
